@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GAD_Wwise_ChenLiangji",
+   "GUID": "{6605E3A5-1EF4-45DD-9513-3D3261E61C11}",
+   "Generator": "2024.1.4.8780"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{4B0AB16D-C309-45C6-A6F1-1CC401F501A0}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{BD76C7B2-A000-4B7A-B1F8-4B30D8F176DD}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{C4E60676-A017-E365-983C-259B5F2A7059}"
+ }
+}
